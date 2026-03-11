@@ -3,8 +3,14 @@
 # sharkfin
 A shark-y bootstrapper which offers new features for casuals and professionals to modify their Roblox experience!
 
-> [!WARNING]
-> sharkfin is in it's early stages of development. No compiled builds will be released until the code is production-ready. If you want to join beta testing that will be done soon, [Join the sharkfin Discord](https://discord.gg/mKZhdNbens)!
+> [!NOTE]
+> The development of sharkfin (pretty much the entirety of this project) has come to a complete stop.
+>
+> With the reasons of roblox completely locking down FastFlags that made most of my concepts gone to waste, it had been a huge turn off for me to even continue working on this project as a whole. And with other reasons like being busy on college and never really having much time to allocate to work on this project anymore, i never really thought of *really* continuing the development of this anymore until a few users reached out about the status of sharkfin's development. (I'm sorry if i ignored some of your DMs, please be clear on what you're reaching me out for next time!)
+>
+> If you want to reach out to me over this prohject, join the [snarkden Discord](https://discord.gg/SbbrNcAHtv)!
+>
+> the organization name "snarkden" is not really "snark", but mostly just a made up word in my stupid brain factory which ended up being actually a real word with meaning that i just realized a few months ago, just because "sharkden" was alreadyt taken and still wanted to use sharkden, so I stood with "snarkden", for anyone concerned over there.
 
 # Prerequisites
 > [!WARNING]
